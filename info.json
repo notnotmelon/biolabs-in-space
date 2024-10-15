@@ -14,5 +14,6 @@
   "space_travel_required": true,
   "spoiling_required": false,
   "freezing_required": false,
-  "segmented_units_required": false
+  "segmented_units_required": false,
+  "expansion_shaders_required": false
 }
