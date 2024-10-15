@@ -1,0 +1,8 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2024-10-15
+  Features:
+    - Add thumbnail
+    - Inital release
+  Graphics:
+    - Add mod thumbnail
