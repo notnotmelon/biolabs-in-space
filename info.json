@@ -4,7 +4,7 @@
   "title": "Biolabs in Space",
   "author": "notnotmelon",
   "homepage": "https://github.com/notnotmelon/biter-labs-in-space",
-  "description": "Allows you to build biolabs in space and other planets.",
+  "description": "Place biolabs anywhere! Place biolabs everywhere! No restrictions!",
   "factorio_version": "2.0",
   "dependencies": [
     "base",
