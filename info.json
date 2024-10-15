@@ -1,17 +1,17 @@
 {
-  "name": "biter-labs-in-space",
+  "name": "biolabs-in-space",
   "version": "1.0.0",
-  "title": "Biter Labs in Space",
+  "title": "Biolabs in Space",
   "author": "notnotmelon",
   "homepage": "https://github.com/notnotmelon/biter-labs-in-space",
-  "description": "Allows you to build biter labs in space and other planets.",
-  "factorio_version": "1.2",
+  "description": "Allows you to build biolabs in space and other planets.",
+  "factorio_version": "2.0",
   "dependencies": [
     "base",
     "space-age"
   ],
   "quality_required": false,
-  "space_travel_required": false,
+  "space_travel_required": true,
   "spoiling_required": false,
   "freezing_required": false,
   "segmented_units_required": false

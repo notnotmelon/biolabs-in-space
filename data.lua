@@ -1,4 +1,4 @@
-local lab = data.raw.lab['biter-lab']
+local lab = data.raw.lab['biolab']
 
 local new_surface_conditions = {}
 for _, condition in pairs(lab.surface_conditions) do
